@@ -54,6 +54,17 @@ Default Style
    src:url(assets/fonts/himalaya.ttf) format("truetype");
 }
 
+@font-face{
+   font-family: Montserrat-Regular;
+   src:url(assets/fonts/Montserrat-Regular.otf) format("truetype");
+}
+
+@font-face{
+   font-family: Montserrat-Light;
+   src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
+}
+
+
 body {
     font-size: 15px;
     font-family: "himalaya", sans-serif;
@@ -124,7 +135,7 @@ h3 {
 p {
     font-size: 16px;
     margin-bottom: 15px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     line-height: 1.8;
 }
 
@@ -152,7 +163,7 @@ ul {
     font-size: 13px;
     padding: 10px 20px;
     width: 100%;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat-Light", sans-serif;
 }
 
 .form-control::-webkit-input-placeholder {
@@ -1250,7 +1261,7 @@ Testimonial Area Style
 
 .testimonial-content span {
     color: #ffffff;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat-Light", sans-serif;
 }
 
 /*
