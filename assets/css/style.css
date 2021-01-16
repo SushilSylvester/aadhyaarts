@@ -64,11 +64,19 @@ Default Style
    src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
 }
 
+.pin{
+    display: block;
+    background: url(assets/img/pin.png);
+
+    color: #fff;
+
+
+}
 
 body {
     font-size: 15px;
     font-family: "himalaya";
-    color: #676a6a;
+    color: #706F6F;
 }
 
 a {
@@ -76,12 +84,12 @@ a {
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     text-decoration: none;
-    color: #272b2b;
+    color: #706F6F;
 }
 
 a:hover {
     text-decoration: none;
-    color: #272b2b;
+    color: #EA5B0C;
 }
 
 a:focus {
@@ -428,6 +436,7 @@ Nav Area Style
     margin-left: 15px;
     margin-right: 15px;
     padding: 0;
+    font-family: Montserrat-Regular;
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item a i {
@@ -2299,7 +2308,7 @@ Footer Bottom Style
 }
 
 .footer-bottom-area .copyright-wrap p a:hover {
-    color: #ffffff;
+    color: #EA5B0C;
 }
 
 #validator-newsletter-2 {
