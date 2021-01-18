@@ -2576,7 +2576,10 @@ Video Area Two Style
 /*
 Video Area Two Style
 ======================================================*/
-
+.pt-height{
+   padding-bottom: 30px;
+   padding-top: 30px;
+}
 .testimonial-area-two .owl-carousel .owl-item img {
     width: auto;
 }
