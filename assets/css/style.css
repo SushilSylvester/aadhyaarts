@@ -128,7 +128,7 @@ h6 {
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 58px;
 }
 
 .d-table {
@@ -259,7 +259,7 @@ Default Btn Area Style*/
 
 .default-btn {
     font-size: 15px;
-    color: #272b2b;
+    color: #EA5B0C;
     padding: 15px 40px;
     line-height: 1;
     -webkit-transition: all 0.5s;
@@ -2137,7 +2137,7 @@ Footer Top Area Style
     margin-bottom: 30px;
     padding-bottom: 10px;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 100;
 }
 
 .single-widget img {
