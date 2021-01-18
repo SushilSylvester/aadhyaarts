@@ -63,6 +63,10 @@ Default Style
    font-family: Montserrat-Light;
    src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
 }
+@font-face{
+   font-family: Montserrat-Light;
+   src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
+}
 
 .pin{
     display: block;
@@ -128,8 +132,9 @@ h6 {
 }
 
 h3 {
-    font-size: 58px;
+    font-size: 45px;
     font-family: Montserrat;
+    text-transform: uppercase;
 }
 
 .d-table {
