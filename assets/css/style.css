@@ -1202,7 +1202,7 @@ Testimonial Area Style
 ======================================================*/
 
 .testimonial-area {
-    background-image: url(../../assets/img/testimonial-bg.jpg);
+    background-image: url(../../assets/img/about-img-two.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3427,6 +3427,7 @@ Products Area Three Style
 
 .products-area.three .products-content p {
     color: #ffffff;
+    font-family: Montserrat-SemiBold;
 }
 
 .products-area.three .products-content p::before {
