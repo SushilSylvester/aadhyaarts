@@ -906,6 +906,7 @@ Hero Slider Area Style
 }
 
 .hero-slider-area .social-wrap ul li.follow-us {
+    font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
     color: #ffffff;
     position: relative;
@@ -2138,6 +2139,7 @@ Footer Top Area Style
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 100;
+    text-transform: uppercase;
 }
 
 .single-widget img {
