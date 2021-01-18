@@ -129,6 +129,7 @@ h6 {
 
 h3 {
     font-size: 58px;
+    font-family: Montserrat;
 }
 
 .d-table {
@@ -984,7 +985,7 @@ Hero Slider Area Style
    /* text-transform: uppercase;*/
     letter-spacing: 8px;
     margin-bottom: 30px;
-    font-size: 30px !important;
+    font-size: 30px;
 }
 
 /*
@@ -3141,6 +3142,7 @@ What We Do Area Three Style
 
 .team-area-three .ingle-team .team-content h3 {
     color: #ffffff;
+
 }
 
 .team-area-three .ingle-team .team-content span {
