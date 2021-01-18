@@ -64,8 +64,8 @@ Default Style
    src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
 }
 @font-face{
-   font-family: Montserrat-Light;
-   src:url(assets/fonts/Montserrat-Light.otf) format("truetype");
+   font-family: Montserrat-SemiBold;
+   src:url(assets/fonts/Montserrat-SemiBold.otf) format("truetype");
 }
 
 .pin{
