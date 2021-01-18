@@ -1778,6 +1778,9 @@
     .mean-container .mean-nav {
         margin-top: 70px;
     }
+    .mean-container .mean-nav ul li a{
+        font-family: 'Montserrat', sans-serif;
+    }
     .mean-container .mean-nav ul li a:hover {
         color: #272b2b;
     }
