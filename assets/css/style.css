@@ -253,7 +253,7 @@ textarea.form-control {
 Bg-color Style*/
 
 .bg-color {
-    background-color: #fafafa;
+    background-color: #ffffff;
 }
 
 .bg-color-two {
@@ -459,7 +459,8 @@ Nav Area Style
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item a.active {
-    color: #272b2b;
+    color: #EA5B0C;
+
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu {
