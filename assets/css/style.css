@@ -150,7 +150,8 @@ h3 {
 p {
     font-size: 16px;
     margin-bottom: 15px;
-    font-family: "Montserrat-Light", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
     line-height: 1.8;
 }
 
@@ -4034,7 +4035,7 @@ Bio Data Area Style
 }
 
 .bio-data .about-content p {
-    padding-left: 100px;
+    /*padding-left: 10px;*/
 }
 
 .bio-data .about-grid-img {
