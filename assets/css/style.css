@@ -150,7 +150,8 @@ h3 {
 p {
     font-size: 16px;
     margin-bottom: 15px;
-    font-family: "Montserrat-Light", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
     line-height: 1.8;
 }
 
@@ -2150,7 +2151,7 @@ Footer Top Area Style
 }
 
 .single-widget img {
-    margin-bottom: 30px;
+    margin-bottom: 8px;
 }
 
 .single-widget .newsletter-wrap {
@@ -3860,11 +3861,11 @@ Page Title Area Style
 }
 
 .page-title-area.bg-1 {
-    background-image: url(../../assets/img/page-bg/1.jpg);
+    background-image: url(../../assets/img/page-bg/aboutus.jpg);
 }
 
 .page-title-area.bg-2 {
-    background-image: url(../../assets/img/page-bg/2.jpg);
+    background-image: url(../../assets/img/page-bg/services.jpg);
 }
 
 .page-title-area.bg-3 {
@@ -3920,7 +3921,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-16 {
-    background-image: url(../../assets/img/page-bg/16.jpg);
+    background-image: url(../../assets/img/page-bg/portfolio.jpg);
 }
 
 .page-title-area.bg-17 {
@@ -4034,7 +4035,7 @@ Bio Data Area Style
 }
 
 .bio-data .about-content p {
-    /*padding-left: 100px;*/
+    /*padding-left: 10px;*/
 }
 
 .bio-data .about-grid-img {
