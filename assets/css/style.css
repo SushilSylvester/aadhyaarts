@@ -4034,7 +4034,7 @@ Bio Data Area Style
 }
 
 .bio-data .about-content p {
-    padding-left: 100px;
+    /*padding-left: 100px;*/
 }
 
 .bio-data .about-grid-img {
