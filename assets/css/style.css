@@ -160,7 +160,7 @@ p:last-child {
 }
 
 img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
 }
 
@@ -3963,7 +3963,7 @@ Page Title Area Style
 .page-title-area .page-title-content h2 {
     margin-bottom: 15px;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
 }
 
