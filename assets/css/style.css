@@ -134,7 +134,7 @@ h6 {
 h3 {
     font-size: 45px;
     font-family: Montserrat;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .d-table {
