@@ -1219,7 +1219,7 @@ Testimonial Area Style
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #ea5b0d;
+    background-color:#EA5B0C;
     opacity: 0.8;
 }
 
@@ -3869,7 +3869,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-3 {
-    background-image: url(../../assets/img/page-bg/3.jpg);
+    background-image: url(../../assets/img/page-bg/contact.jpg);
 }
 
 .page-title-area.bg-4 {
