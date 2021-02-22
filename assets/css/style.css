@@ -5904,8 +5904,8 @@ Portfolio Details Area Style
 }
 
 .portfolio-details-wrap .portfolio-date {
-    border: 1px dashed #cfcfcf;
-    padding: 30px;
+   /* border: 1px dashed #cfcfcf;*/
+    padding: 15px;
 }
 
 .portfolio-details-wrap .portfolio-date .date-wrap {
