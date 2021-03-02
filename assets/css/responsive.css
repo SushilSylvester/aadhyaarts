@@ -40,12 +40,13 @@
         left: 0;
         right: 0;
         text-align: center;
-        bottom: 90px;
+        bottom: 250px;
     }
     .hero-slider-item {
         height: 100%;
         padding-top: 120px;
-        padding-bottom: 135px;
+        padding-bottom: 0px;
+        margin-top: -50px;
     }
     .hero-slider-text {
         margin-top: 0;
