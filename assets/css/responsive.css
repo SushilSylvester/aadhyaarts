@@ -1,6 +1,18 @@
 /* Max width 767px */
 
 @media only screen and (max-width: 767px) {
+
+
+    .page-title-content h2{
+        font-size: 42px;
+        margin-bottom: 20px;
+    }
+
+    .page-title-content p{
+        font-size: 20px !important;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
     .ptb-100 {
         padding-top: 50px;
         padding-bottom: 50px;
@@ -60,6 +72,7 @@
     }
     p {
         font-size: 14px;
+}
     }
     .about-content-wrap {
         background-image: unset;
@@ -167,8 +180,7 @@
         margin-bottom: 30px;
         padding-right: 15px;
         padding-left: 15px;
-        text-align: justify;
-
+       
     }
     .section-title {
         margin-bottom: 30px;
@@ -322,7 +334,7 @@
         margin-bottom: 10px;
     }
     .about-area-two .about-content h2 {
-        font-size: 22px;
+        font-size: 44px;
         margin-bottom: 20px;
     }
     .about-area-two .about-content .default-btn {
@@ -554,6 +566,10 @@
     }
     .bio-data .about-content p {
         padding-left: 0;
+        text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
+    line-height: 20px;
     }
     .bio-data .p-0 {
         padding-left: 15px !important;
