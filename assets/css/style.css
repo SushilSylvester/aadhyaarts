@@ -53,6 +53,9 @@ Default Style
         text-align: justify !important;
 
     }
+    .bio-data .about-content p{
+        text-align: justify !important;
+    }
 }
 
 
@@ -4052,6 +4055,7 @@ Bio Data Area Style
 
 .bio-data .about-content p {
     /*padding-left: 10px;*/
+    text-align: left;
 }
 
 .bio-data .about-grid-img {
